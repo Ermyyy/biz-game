@@ -1,6 +1,5 @@
 
 import { Navigate, Route, Routes } from 'react-router-dom'
-import './App.css'
 import AppShell from './components/AppShell'
 import { Dashboard } from './pages/Dashboard'
 import Market from './pages/Market'
